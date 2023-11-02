@@ -1,0 +1,576 @@
+Category,Description
+Hadoop,Apache Spark
+Hadoop,Hive
+Hadoop,Hadoop
+Hadoop,Scala
+Hadoop,Apache Kafka
+Hadoop,Big Data
+Hadoop,HBase
+Hadoop,Sqoop
+Hadoop,Apache Pig
+Hadoop,MapReduce
+Hadoop,Apache Oozie
+Hadoop,Amazon Web Services (AWS)
+Hadoop,"Extract, Transform, Load (ETL)"
+Hadoop,Python (Programming Language)
+Hadoop,Data Engineering
+Hadoop,Apache Flume
+Hadoop,Cassandra
+Hadoop,Apache Impala
+Hadoop,Shell Scripting
+Hadoop,Cloudera
+Hadoop,Big Data Analytics
+Hadoop,SQL
+Hadoop,Apache Sqoop
+Hadoop,Java
+Hadoop,Apache Spark Streaming
+Health and fitness,Fitness
+Health and fitness,Personal Training
+Health and fitness,Fitness Training
+Health and fitness,Wellness
+Health and fitness,Strength Training
+Health and fitness,Nutrition
+Health and fitness,Exercise Physiology
+Health and fitness,Wellness Coaching
+Health and fitness,Fitness Instruction
+Health and fitness,Group Exercise Instruction
+Health and fitness,Exercise Prescription
+Health and fitness,Athletics
+Health and fitness,Health Promotion
+Health and fitness,Sports Nutrition
+Health and fitness,Cardiopulmonary Resuscitation (CPR)
+Health and fitness,Coaching
+Health and fitness,Nutritional Counseling
+Health and fitness,Strength & Conditioning
+Health and fitness,Weight Training
+Health and fitness,Health Education
+Java Developer,Spring Framework
+Java Developer,Java
+Java Developer,Hibernate
+Java Developer,Spring Boot
+Java Developer,Maven
+Java Developer,Spring MVC
+Java Developer,SQL
+Java Developer,JavaScript
+Java Developer,JUnit
+Java Developer,Git
+Java Developer,Jakarta EE
+Java Developer,JavaServer Pages (JSP)
+Java Developer,Software Development
+Java Developer,XML
+Java Developer,AngularJS
+Java Developer,Eclipse
+Java Developer,MySQL
+Java Developer,Agile Methodologies
+Java Developer,Web Services
+Java Developer,Tomcat
+Java Developer,Scrum
+Java Developer,IntelliJ IDEA
+Java Developer,Jakarta Persistence
+Java Developer,Jenkins
+Java Developer,Cascading Style Sheets (CSS)
+Mechanical Engineer,Mechanical Engineering
+Mechanical Engineer,Engineering
+Mechanical Engineer,SOLIDWORKS
+Mechanical Engineer,AutoCAD
+Mechanical Engineer,Computer-Aided Design (CAD)
+Mechanical Engineer,Project Engineering
+Mechanical Engineer,Manufacturing
+Mechanical Engineer,PTC Creo
+Mechanical Engineer,Project Management
+Mechanical Engineer,Design for Manufacturing
+Mechanical Engineer,Microsoft Access
+Mechanical Engineer,Commissioning
+Mechanical Engineer,Finite Element Analysis (FEA)
+Mechanical Engineer,Project Planning
+Mechanical Engineer,Engineering Design
+Mechanical Engineer,Product Development
+Mechanical Engineer,Construction
+Mechanical Engineer,MATLAB
+Mechanical Engineer,ANSYS
+Mechanical Engineer,Product Design
+Mechanical Engineer,CATIA
+Mechanical Engineer,Autodesk Inventor
+Mechanical Engineer,Design Engineering
+Mechanical Engineer,Siemens NX
+Mechanical Engineer,Solid Edge
+Mechanical Engineer,Research and Development (R&D)
+Network Security Engineer,Firewalls
+Network Security Engineer,Network Security
+Network Security Engineer,Virtual Private Network (VPN)
+Network Security Engineer,F5 BigIP
+Network Security Engineer,Palo Alto Networks
+Network Security Engineer,Cisco Systems Products
+Network Security Engineer,Network Engineering
+Network Security Engineer,Networking
+Network Security Engineer,Cisco ASA
+Network Security Engineer,Juniper Networks Products
+Network Security Engineer,Checkpoint
+Network Security Engineer,Switches
+Network Security Engineer,Cybersecurity
+Network Security Engineer,Data Center
+Network Security Engineer,Network Design
+Network Security Engineer,Border Gateway Protocol (BGP)
+Network Security Engineer,Routing
+Network Security Engineer,ITIL
+Network Security Engineer,Network Administration
+Network Security Engineer,Cloud Computing
+Network Security Engineer,Security
+Network Security Engineer,Wide Area Network (WAN)
+Network Security Engineer,Fortinet
+Network Security Engineer,Troubleshooting
+Network Security Engineer,Open Shortest Path First (OSPF)
+Network Security Engineer,Routers
+Network Security Engineer,Information Security
+Operations Manager,Operations Management
+Operations Manager,Management
+Operations Manager,Strategic Planning
+Operations Manager,Project Management
+Operations Manager,Change Management
+Operations Manager,Customer Service
+Operations Manager,Business Development
+Operations Manager,Project Planning
+Operations Manager,Contract Negotiation
+Operations Manager,Business Strategy
+Operations Manager,Budgeting
+Operations Manager,Sales
+Operations Manager,Logistics Management
+Operations Manager,Contract Management
+Operations Manager,Account Management
+Operations Manager,Procurement
+Operations Manager,Microsoft Access
+Operations Manager,Teaching
+Operations Manager,Sales Management
+PMO,Project Management Office (PMO)
+PMO,Project Portfolio Management
+PMO,Project Delivery
+PMO,Project Governance
+PMO,PRINCE2
+PMO,Stakeholder Management
+PMO,Program Management
+PMO,Resource Management
+PMO,Business Process Improvement
+PMO,Business Transformation
+PMO,Change Management
+PMO,PMO set-up
+PMO,PMO Services
+PMO,Risk Management
+PMO,Business Analysis
+PMO,Project Planning
+PMO,PMO Development
+PMO,P3O
+PMO,Programme Delivery
+PMO,Microsoft Project
+PMO,Software Development Life Cycle (SDLC)
+PMO,Integration
+PMO,Vendor Management
+PMO,Business Process
+PMO,Software Project Management
+PMO,Requirements Analysis
+PMO,IT Strategy
+PMO,Cross-functional Team Leadership
+PMO,Agile Methodologies
+PMO,IT Management
+PMO,Enterprise Software
+Python Developer,Django
+Python Developer,Python (Programming Language)
+Python Developer,Flask
+Python Developer,MySQL
+Python Developer,PostgreSQL
+Python Developer,Cascading Style Sheets (CSS)
+Python Developer,JavaScript
+Python Developer,Git
+Python Developer,HTML
+Python Developer,Machine Learning
+Python Developer,MongoDB
+Python Developer,Pandas (Software)
+Python Developer,SQL
+Python Developer,Linux
+Python Developer,NumPy
+Python Developer,Web Scraping
+Python Developer,jQuery
+Python Developer,HTML5
+Python Developer,REST APIs
+Python Developer,Data Science
+Python Developer,Docker Products
+Python Developer,Amazon Web Services (AWS)
+Python Developer,Software Development
+Python Developer,GitHub
+Python Developer,Back-End Web Development
+Python Developer,Java
+SAP Developer,SQL Server Reporting Services (SSRS)
+SAP Developer,SQL Server Integration Services (SSIS)
+SAP Developer,Transact-SQL (T-SQL)
+SAP Developer,Microsoft SQL Server
+SAP Developer,Crystal Reports
+SAP Developer,SQL
+SAP Developer,Tableau
+SAP Developer,Databases
+SAP Developer,Data Warehousing
+SAP Developer,"Extract, Transform, Load (ETL)"
+SAP Developer,Business Intelligence (BI)
+SAP Developer,Software Development Life Cycle (SDLC)
+SAP Developer,SAP BusinessObjects
+SAP Developer,Report Development
+SAP Developer,SQL Server Management Studio
+SAP Developer,Microsoft Power BI
+SAP Developer,Visual Studio
+SAP Developer,T-SQL Stored Procedures
+SAP Developer,Data Modeling
+SAP Developer,Requirements Analysis
+Sales,Account Management
+Sales,Sales
+Sales,Business-to-Business (B2B)
+Sales,Sales Management
+Sales,Negotiation
+Sales,Business Development
+Sales,Management
+Sales,Marketing Strategy
+Sales,Business Strategy
+Sales,Customer Service
+Sales,Marketing
+Sales,Solution Selling
+Sales,Direct Sales
+Sales,Microsoft Access
+Sales,Customer Relationship Management (CRM)
+Sales,Sales Process
+Sales,Project Management
+Sales,Social Media
+Sales,Coaching
+Sales,Contract Negotiation
+Sales,International Sales
+Sales,Team Leadership
+Sales,Retail
+Sales,Strategy
+Sales,Leadership
+Sales,Merchandising
+Sales,Salesforce.com
+Sales,Sales Operations
+Sales,Software as a Service (SaaS)
+Sales,Cold Calling
+Sales,Sales Presentations
+Sales,Strategic Planning
+Sales,Social Media Marketing
+Sales,Business Planning
+Sales,Project Planning
+Sales,Market Research
+Sales,Sales & Marketing
+Sales,Communication
+Sales,Teamwork
+Sales,Retail Sales
+Sales,Real Estate
+Sales,Investment Properties
+Sales,Sellers
+Sales,Working with First-Time Home Buyers
+Sales,Residential Real Estate
+Sales,Buyer Representation
+Sales,Insurance
+Sales,Real Estate Transactions
+Sales,Single Family Homes
+Sales,Relocation
+Testing,Software Testing
+Testing,Manual Testing
+Testing,Regression Testing
+Testing,Test Cases
+Testing,Test Planning
+Testing,Software Quality Assurance
+Testing,Jira
+Testing,Test Automation
+Testing,Functional Testing
+Testing,Agile Methodologies
+Testing,Testing
+Testing,SQL
+Testing,Software Development Life Cycle (SDLC)
+Testing,Selenium
+Testing,Quality Assurance
+Testing,User Acceptance Testing
+Testing,Agile Testing
+Testing,HP Quality Center
+Testing,Java
+Testing,System Testing
+Testing,Selenium WebDriver
+Testing,Scrum
+Testing,Exploratory Testing
+Web Designing,Web Design
+Web Designing,Cascading Style Sheets (CSS)
+Web Designing,WordPress
+Web Designing,Web Development
+Web Designing,HTML5
+Web Designing,Graphic Design
+Web Designing,Adobe Illustrator
+Web Designing,Adobe Photoshop
+Web Designing,HTML
+Web Designing,Adobe InDesign
+Web Designing,Responsive Web Design
+Web Designing,User Interface Design
+Web Designing,JavaScript
+Web Designing,Bootstrap
+Web Designing,Search Engine Optimization (SEO)
+Web Designing,PHP
+Web Designing,Logo Design
+Web Designing,Adobe Creative Suite
+Web Designing,Dreamweaver
+Web Designing,User Experience (UX)
+Web Designing,jQuery
+Advocate,Insurance
+Advocate,Case Management
+Advocate,Nonprofit Organizations
+Advocate,Community Outreach
+Advocate,Employee Benefits Design
+Advocate,Health Insurance
+Advocate,Account Management
+Advocate,Social Services
+Advocate,Crisis Intervention
+Advocate,Legal Research
+Advocate,Legal Advice
+Advocate,Crisis Intervention
+Advocate,Community Outreach
+Advocate,Legal Writing
+Advocate,Case Management
+Advocate,Nonprofit Organizations
+Advocate,Social Services
+Advocate,Litigation
+Advocate,Research
+Arts,Art
+Arts,Creative
+Arts,Adobe Photoshop
+Arts,Contemporary Art
+Arts,Painting
+Arts,Fine Art
+Arts,ZBrush
+Arts,Drawing
+Arts,Visual Arts
+Arts,Photography
+Arts,Art Direction
+Arts,Graphic Design
+Arts,Illustration
+Arts,Adobe Illustrator
+Arts,Music
+Arts,Logo Design
+Arts,Adobe Creative Suite
+Arts,Music Production
+Arts,Art History
+Automation Testing,Automation
+Automation Testing,SCADA
+Automation Testing,Programmable Logic Controller (PLC)
+Automation Testing,PLC Programming
+Automation Testing,Selenium WebDriver
+Automation Testing,Selenium
+Automation Testing,Test Automation
+Automation Testing,HMI Programming
+Automation Testing,Industrial Automation
+Automation Testing,Jenkins
+Automation Testing,Selenium
+Automation Testing,Test Automation
+Automation Testing,Jenkins
+Automation Testing,Appium
+Automation Testing,Selenium WebDriver
+Automation Testing,Cucumber
+Automation Testing,Test Management
+Automation Testing,Behavior-Driven Development (BDD)
+Automation Testing,Automation
+Automation Testing,Tricentis Tosca
+Automation Testing,Automation
+Automation Testing,Programmable Logic Controller (PLC)
+Automation Testing,PLC Programming
+Automation Testing,Instrumentation
+Automation Testing,Engineering
+Automation Testing,Commissioning
+Automation Testing,Process Automation
+Automation Testing,5S
+Automation Testing,Electrical Controls
+Blockchain ,Accounting
+Blockchain ,Financial Reporting
+Blockchain ,Financial Analysis
+Blockchain ,Account Reconciliation
+Blockchain ,Financial Accounting
+Blockchain ,Microsoft Access
+Blockchain ,General Ledger
+Blockchain ,Accounts Payable
+Blockchain ,Auditing
+Blockchain ,Financial Statements
+Blockchain ,Database Administration
+Blockchain ,Databases
+Blockchain ,SQL
+Blockchain ,Microsoft SQL Server
+Blockchain ,Oracle Database
+Blockchain ,PL/SQL
+Blockchain ,Linux
+Blockchain ,Oracle RAC
+Blockchain ,RMAN
+Blockchain ,MySQL
+Business Analyst,Business Analysis
+Business Analyst,Requirements Analysis
+Business Analyst,Requirements Gathering
+Business Analyst,SQL
+Business Analyst,Software Development Life Cycle (SDLC)
+Business Analyst,Business Requirements
+Business Analyst,User Acceptance Testing
+Business Analyst,Agile Methodologies
+Business Analyst,Project Management
+Business Analyst,Data Analysis
+Business Analyst,Scrum
+Business Analyst,Requirements Analysis
+Business Analyst,SQL
+Business Analyst,ITIL
+Business Analyst,Systems Analysis
+Business Analyst,Agile Methodologies
+Business Analyst,Requirements Gathering
+Business Analyst,Microsoft SQL Server
+Business Analyst,Business Analysis
+Business Analyst,Business Intelligence (BI)
+Business Analyst,Tableau
+Business Analyst,Microsoft SQL Server
+Business Analyst,Visual Basic for Applications (VBA)
+Business Analyst,Business Intelligence (BI)
+Business Analyst,Analytics
+Business Analyst,Predictive Analytics
+Business Analyst,Data Warehousing
+Business Analyst,SQL Server Reporting Services (SSRS)
+Civil Engineer ,Civil Engineering
+Civil Engineer ,Construction
+Civil Engineer ,Construction Management
+Civil Engineer ,AutoCAD
+Civil Engineer ,Engineering
+Civil Engineer ,Project Planning
+Civil Engineer ,Microsoft Project
+Civil Engineer ,Contract Management
+Civil Engineer ,Revit
+Civil Engineer ,Project Management
+Civil Engineer ,Civil Engineering
+Civil Engineer ,Revit
+Civil Engineer ,Construction
+Civil Engineer ,Construction Management
+Civil Engineer ,Engineering
+Civil Engineer ,Microsoft Project
+Civil Engineer ,Project Planning
+Civil Engineer ,Microsoft Access
+Civil Engineer ,SketchUp
+Database,Database Administration
+Database,Databases
+Database,SQL
+Database,Microsoft SQL Server
+Database,Oracle Database
+Database,PL/SQL
+Database,Linux
+Database,Oracle RAC
+Database,RMAN
+Database,MySQL
+Database,Database Design
+Database,SQL Server Integration Services (SSIS)
+Database,Transact-SQL (T-SQL)
+Database,"Extract, Transform, Load (ETL)"
+Database,Software Development Life Cycle (SDLC)
+DevOps Engineer,DevOps
+DevOps Engineer,Docker Products
+DevOps Engineer,Ansible
+DevOps Engineer,Jenkins
+DevOps Engineer,Kubernetes
+DevOps Engineer,Amazon Web Services (AWS)
+DevOps Engineer,Git
+DevOps Engineer,Linux
+DevOps Engineer,Scrum
+DevOps Engineer,Terraform
+DevOps Engineer,Continuous Integration and Continuous Delivery (CI/CD)
+DevOps Engineer,Puppet
+DevOps Engineer,Sonarqube
+DotNet Developer ,ASP.NET
+DotNet Developer ,C#
+DotNet Developer ,Microsoft SQL Server
+DotNet Developer ,ASP.NET MVC
+DotNet Developer ,.NET Framework
+DotNet Developer ,JavaScript
+DotNet Developer ,jQuery
+DotNet Developer ,SQL
+DotNet Developer ,HTML
+DotNet Developer ,Cascading Style Sheets (CSS)
+DotNet Developer ,.NET Framework
+DotNet Developer ,Entity Framework
+DotNet Developer ,Microsoft SQL Server
+DotNet Developer ,Windows Presentation Foundation (WPF)
+DotNet Developer ,Visual Studio
+DotNet Developer ,Windows Communication Foundation (WCF)
+ETL Developer ,Informatica
+ETL Developer ,"Extract, Transform, Load (ETL)"
+ETL Developer ,Data Warehousing
+ETL Developer ,Unix
+ETL Developer ,SQL
+ETL Developer ,Ab Initio
+ETL Developer ,DataStage
+ETL Developer ,Oracle Database
+ETL Developer ,PL/SQL
+ETL Developer ,ETL Tools
+Electrical Engineering,Electrical Engineering
+Electrical Engineering,Engineering
+Electrical Engineering,Automation
+Electrical Engineering,Electrical Wiring
+Electrical Engineering,MATLAB
+Electrical Engineering,Electronics
+Electrical Engineering,Eplan
+Electrical Engineering,Programmable Logic Controller (PLC)
+Electrical Engineering,AutoCAD
+Electrical Engineering,Commissioning
+Electrical Engineering,Electrical Engineering
+Electrical Engineering,AutoCAD
+Electrical Engineering,C (Programming Language)
+Electrical Engineering,C++
+Electrical Engineering,Printed Circuit Board (PCB) Design
+Electrical Engineering,PSpice
+Electrical Engineering,Soldering
+Electrical Engineering,Engineering
+Electrical Engineering,Altium Designer
+Electrical Engineering,Automation
+Electrical Engineering,Manufacturing
+Electrical Engineering,Project Engineering
+Electrical Engineering,Instrumentation
+Electrical Engineering,Electronics
+Electrical Engineering,Programmable Logic Controller (PLC)
+HR,Human Resources (HR)
+HR,Employee Relations
+HR,HR Policies
+HR,Employee Engagement
+HR,Recruiting
+HR,Performance Appraisal
+HR,Administration
+HR,Payroll
+HR,Performance Management
+HR,Human Resources Information Systems (HRIS)
+HR,Recruiting
+HR,Employee Relations
+HR,Performance Management
+HR,Organizational Development
+HR,Payroll
+HR,Human Resource Development
+HR,Interviewing
+HR,Teaching
+HR,Microsoft Access
+HR,HR Consulting
+HR,Talent Management
+HR,Organizational Development
+HR,Performance Management
+HR,Training & Development
+HR,Performance Appraisal
+Data Science,Machine Learning
+Data Science,R (Programming Language)
+Data Science,Data Science
+Data Science,Python (Programming Language)
+Data Science,Deep Learning
+Data Science,Natural Language Processing (NLP)
+Data Science,Tableau
+Data Science,SQL
+Data Science,Predictive Modeling
+Data Science,Statistics
+Data Science,Data Analysis
+Data Science,Data Visualization
+Data Science,Statistical Modeling
+Data Science,TensorFlow
+Data Science,Predictive Analytics
+Data Science,Artificial Intelligence (AI)
+Data Science,Data Mining
+Data Science,Scikit-Learn
+Data Science,Data Analytics
+Data Science,Apache Spark
+Data Science,Big Data
+Data Science,Hadoop
+Data Science,Algorithms
+Data Science,Git
