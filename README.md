@@ -3,7 +3,7 @@ Toward a Knowledge Discovery Framework for Data Science Job Market in the United
 
 dash.py is the original code from the parent paper
 
-dash.ipynb is what we used to run the code and install additional packages to make the code work
+dash.ipynb is what we used to originally run the code and install additional packages to make the code work
 
 Modified_Implmentation_of_dash.ipynb includes our new contributions to our parent paper code
 
