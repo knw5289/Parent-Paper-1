@@ -1,5 +1,5 @@
-# Parent-Paper-1
-Toward a Knowledge Discovery Framework for Data Science Job Market in the United States
+# Final Project
+Parent Paper: Toward a Knowledge Discovery Framework for Data Science Job Market in the United States
 
 dash.py is the original code from the parent paper
 
